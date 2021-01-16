@@ -1,6 +1,7 @@
 ### Hi there 👋
 # My name is Zahra Gholizadeh
 # Course name is OPS435 NAA
+# OPS stands for Open System Automation.
 <!--
 **zgholizadeh/zgholizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
